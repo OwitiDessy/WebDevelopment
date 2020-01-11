@@ -9,6 +9,8 @@ Splurty is a web application that allows users to enter quotes and information a
 
 Ruby on Rails. Ruby version 2.5.3 and rails version 5.2.3
 
+Sublime Text Editor
+
 Git 
 
 GitHub
